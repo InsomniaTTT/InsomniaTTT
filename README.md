@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+<p align="center">
+  <img src="./ember-connecting.gif" width="256" alt="火猫正在连接">
+</p>
 <!--
 **InsomniaTTT/InsomniaTTT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
